@@ -1,5 +1,5 @@
 {
-  "name": "dev-example-app",
+  "name": "RestCountriesApi",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -46,6 +46,9 @@
     "react-grid-layout": "^0.16.6",
     "react-icons": "^2.2.7",
     "react-refresh": "0.8.1",
-    "reakit": "^0.11.1"
+    "react-widgets": "^4.5.0",
+    "reakit": "^0.11.1",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^1.2.1"
   }
 }
